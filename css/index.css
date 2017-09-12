@@ -1,0 +1,18 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+#danmu
+{
+    position: absolute;
+    height:100%;
+    width:100%;
+    overflow: hidden;
+}
+#danmu div
+{
+    position: absolute;
+    width:100%;
+    font-size: 40px;
+}
